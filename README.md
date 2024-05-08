@@ -114,22 +114,22 @@ In Home view, all the views button will be available. User will land on specific
 ![](https://github.com/khamidsultan/Business-360-insights/blob/e50c79f5cb6cdb3177bb45f509c6614984886f00/Resources/Overall%20Report.gif)
 
 ## Finance View
-![](https://github.com/khamidsultan/Business-360-insights/blob/e50c79f5cb6cdb3177bb45f509c6614984886f00/Resources/Finance%20View.gif)
+![](https://github.com/khamidsultan/Business-360-insights/blob/92d0a434e1e4b8fdc73b9fe76e71be67972b58da/Resources/Finance%20view.gif)
 
 ## Sales View
 ![](https://github.com/khamidsultan/Business-360-insights/blob/e50c79f5cb6cdb3177bb45f509c6614984886f00/Resources/Sales%20View.gif)
 
 ## Marketing
-![](https://github.com/khamidsultan/Business-360-insights/blob/e50c79f5cb6cdb3177bb45f509c6614984886f00/Resources/Marketing%20View.gif)
+![](https://github.com/khamidsultan/Business-360-insights/blob/92d0a434e1e4b8fdc73b9fe76e71be67972b58da/Resources/Marketing%20view.gif)
 
 ## Supply Chain View
 ![](https://github.com/khamidsultan/Business-360-insights/blob/e28c5aa576359422e1e0a30d4f38bebc61075715/Resources/Supply%20chain%20View.gif)
 
 ## Executive View
-![](https://github.com/khamidsultan/Business-360-insights/blob/e50c79f5cb6cdb3177bb45f509c6614984886f00/Resources/Executive%20View.gif)
+![](https://github.com/khamidsultan/Business-360-insights/blob/92d0a434e1e4b8fdc73b9fe76e71be67972b58da/Resources/Executive%20view.gif)
 
 ## Stakeholder View
-![](https://github.com/khamidsultan/Business-360-insights/blob/e50c79f5cb6cdb3177bb45f509c6614984886f00/Resources/Stakeholder%20View.gif)
+![](https://github.com/khamidsultan/Business-360-insights/blob/e2a9712f9dc4d5e50fd7c8c40d53055264029629/Resources/Stakeholder%20View.gif)
 
 ## Project Outcome
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
