@@ -8,8 +8,8 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 Live Report Link
 ## Tools Used
 
-*SQL
-Power BI Desktop
+* SQL
+* Power BI Desktop
 Excel
 DAX language
 DAX studio (for optimizing the report)
